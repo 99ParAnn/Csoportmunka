@@ -1,0 +1,12 @@
+- Grid készítése
+- Csinos grid készítése
+- Kezdőlap: színek, méret, ilyesmi választása; megoldani, hogy a grid gombnyomásra készüljön
+- Lépegető elem implementálása
+- Lépegető elem útjának csiganyom-szerű jelzése (? rendesebb megfogalmazás kellene) 
+- Megoldani a visszalépést
+- Megoldani a falakat (help)
+- Hard code-olt, első tesztlabirintus kitalálása
+- Első tesztlabirintus implementálása
+- Győzelem detektálása
+- Győztél-animáció
+- Véletlenszerű labirintus-generáló algoritmus
